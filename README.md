@@ -1,1 +1,1 @@
-# PuAssistant.github.io
+# pu-chatbot
